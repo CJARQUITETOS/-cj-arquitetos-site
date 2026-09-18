@@ -80,7 +80,15 @@
       "location": "Residencial",
       "status": "",
       "cover": "/assets/img/projects/teste-final-4.1.png",
-      "images": []
+      "images": [
+        "/assets/img/projects/04.png",
+        "/assets/img/projects/06.png",
+        "/assets/img/projects/teste-final.png",
+        "/assets/img/projects/teste-final-2.png",
+        "/assets/img/projects/teste-final-4.1.png",
+        "/assets/img/projects/teste-final-6.png",
+        "/assets/img/projects/teste-final-7.png"
+      ]
     },
     {
       "id": "sm",
