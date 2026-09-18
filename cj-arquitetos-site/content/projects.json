@@ -1,0 +1,31 @@
+{
+  "projects": [
+    { "id": "mc", "title": "Residência MC", "category": "residencial", "location": "Residencial", "status": "", "cover": "assets/img/projects/mc/08.jpg", "images": ["assets/img/projects/mc/00.jpg","assets/img/projects/mc/01.jpg","assets/img/projects/mc/02.jpg","assets/img/projects/mc/03.jpg","assets/img/projects/mc/04.jpg","assets/img/projects/mc/05.jpg","assets/img/projects/mc/06.jpg","assets/img/projects/mc/07.jpg","assets/img/projects/mc/08.jpg"] },
+    { "id": "an", "title": "Residência AN", "category": "residencial", "location": "Residencial", "status": "", "cover": "assets/img/projects/an/04.jpg", "images": ["assets/img/projects/an/00.jpg","assets/img/projects/an/01.jpg","assets/img/projects/an/02.jpg","assets/img/projects/an/03.jpg","assets/img/projects/an/04.jpg","assets/img/projects/an/05.jpg","assets/img/projects/an/06.jpg","assets/img/projects/an/07.jpg","assets/img/projects/an/08.jpg","assets/img/projects/an/09.jpg","assets/img/projects/an/10.jpg"] },
+    { "id": "ac", "title": "Residência AC", "category": "residencial", "location": "Residencial", "status": "", "cover": "assets/img/projects/ac/00.jpg", "images": ["assets/img/projects/ac/00.jpg","assets/img/projects/ac/01.jpg","assets/img/projects/ac/02.jpg","assets/img/projects/ac/03.jpg"] },
+    { "id": "lf", "title": "Residência LF", "category": "residencial", "location": "Residencial", "status": "", "cover": "assets/img/projects/lf/00.jpg", "images": ["assets/img/projects/lf/00.jpg","assets/img/projects/lf/01.jpg","assets/img/projects/lf/02.jpg","assets/img/projects/lf/03.jpg","assets/img/projects/lf/04.jpg","assets/img/projects/lf/05.jpg","assets/img/projects/lf/06.jpg","assets/img/projects/lf/07.jpg","assets/img/projects/lf/08.jpg"] },
+    { "id": "mm", "title": "Residência MM", "category": "residencial", "location": "Residencial", "status": "", "cover": "", "images": [] },
+    { "id": "sm", "title": "Apartamento SM", "category": "residencial", "location": "Residencial", "status": "", "cover": "assets/img/projects/sm/00.jpg", "images": ["assets/img/projects/sm/00.jpg","assets/img/projects/sm/01.jpg","assets/img/projects/sm/02.jpg","assets/img/projects/sm/03.jpg","assets/img/projects/sm/04.jpg","assets/img/projects/sm/05.jpg"] },
+    { "id": "tq", "title": "Apartamento TQ", "category": "residencial", "location": "Residencial", "status": "", "cover": "assets/img/projects/tq/01.jpg", "images": ["assets/img/projects/tq/00.jpg","assets/img/projects/tq/01.jpg","assets/img/projects/tq/02.jpg","assets/img/projects/tq/03.jpg","assets/img/projects/tq/04.jpg","assets/img/projects/tq/05.jpg","assets/img/projects/tq/06.jpg","assets/img/projects/tq/07.jpg","assets/img/projects/tq/08.jpg","assets/img/projects/tq/09.jpg","assets/img/projects/tq/10.jpg"] },
+
+    { "id": "g21", "title": "G21 Mobile", "category": "comercial", "location": "Maringá, PR", "status": "", "cover": "assets/img/projects/g21-cover.jpg", "images": ["assets/img/projects/g21-cover.jpg"] },
+    { "id": "luleg", "title": "Luleg", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "bella-curves", "title": "Bella Curves", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "vania-joias", "title": "Vânia Joias Finas", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "pure-harmony", "title": "Pure Harmony", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "marlys-pizzaria", "title": "Marlys Pizzaria", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "italia-bike-shop", "title": "Italia Bike Shop", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "studio-gabriela-de-paula", "title": "Studio Gabriela de Paula", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "blitz-closet", "title": "Blitz Closet", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "ana-liz-concept", "title": "Ana Liz Concept", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+    { "id": "rako-hamburgueria", "title": "Rako Hamburgueria", "category": "comercial", "location": "Comercial", "status": "", "cover": "", "images": [] },
+
+    { "id": "brado", "title": "Brado Corretora", "category": "corporativo", "location": "Maringá, PR", "status": "", "cover": "assets/img/projects/brado/00.jpg", "images": ["assets/img/projects/brado/00.jpg","assets/img/projects/brado/01.jpg","assets/img/projects/brado/02.jpg","assets/img/projects/brado/03.jpg"] },
+    { "id": "advocacia-arcala-vasconcelos", "title": "Advocacia Arcala e Vasconcelos", "category": "corporativo", "location": "Corporativo", "status": "", "cover": "", "images": [] },
+
+    { "id": "clinica-matanavic", "title": "Clínica Odontológica Matanavic", "category": "clinica", "location": "Clínica", "status": "", "cover": "", "images": [] },
+    { "id": "clinica-tainara-juszkeviscz", "title": "Clínica de Estética Tainara Juszkeviscz", "category": "clinica", "location": "Clínica", "status": "", "cover": "", "images": [] },
+    { "id": "clinica-dafnee-caroline", "title": "Clínica de Estética Dafnee Caroline", "category": "clinica", "location": "Clínica", "status": "", "cover": "", "images": [] },
+    { "id": "consultorio-viviane-balero", "title": "Consultório Neuropsicologia Viviane Balero", "category": "clinica", "location": "Clínica", "status": "", "cover": "", "images": [] }
+  ]
+}

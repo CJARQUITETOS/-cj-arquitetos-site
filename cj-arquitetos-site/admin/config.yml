@@ -1,0 +1,45 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Depois de conectar seu repositório à Netlify, ative:
+# Site settings → Identity → Enable Identity
+# Site settings → Identity → Services → Git Gateway → Enable Git Gateway
+# Depois convide seu próprio e-mail em Identity → Invite users
+
+media_folder: "assets/img/projects"
+public_folder: "/assets/img/projects"
+
+collections:
+  - name: "projects"
+    label: "Portfólio"
+    label_singular: "Projeto"
+    description: "Projetos exibidos na página inicial, organizados por categoria."
+    files:
+      - name: "projects"
+        label: "Lista de projetos"
+        file: "content/projects.json"
+        fields:
+          - name: "projects"
+            label: "Projetos"
+            widget: "list"
+            summary: "{{title}} — {{category}}"
+            fields:
+              - { name: "id", label: "Identificador (sem espaços, ex: residencia-xy)", widget: "string" }
+              - { name: "title", label: "Nome do projeto", widget: "string" }
+              - label: "Categoria"
+                name: "category"
+                widget: "select"
+                options:
+                  - { label: "Residencial", value: "residencial" }
+                  - { label: "Comercial", value: "comercial" }
+                  - { label: "Corporativo", value: "corporativo" }
+                  - { label: "Clínica / Consultório", value: "clinica" }
+              - { name: "location", label: "Legenda curta (cidade ou categoria)", widget: "string", required: false }
+              - { name: "status", label: "Situação (opcional, ex: Em obra)", widget: "string", required: false }
+              - { name: "cover", label: "Foto de capa", widget: "image", required: false }
+              - name: "images"
+                label: "Fotos do projeto (galeria)"
+                widget: "list"
+                field: { label: "Foto", name: "image", widget: "image" }
+                required: false
