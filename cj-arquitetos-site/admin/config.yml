@@ -7,7 +7,7 @@ backend:
 # Site settings → Identity → Services → Git Gateway → Enable Git Gateway
 # Depois convide seu próprio e-mail em Identity → Invite users
 
-media_folder: "assets/img/projects"
+media_folder: "cj-arquitetos-site/assets/img/projects"
 public_folder: "/assets/img/projects"
 
 collections:
@@ -18,7 +18,7 @@ collections:
     files:
       - name: "projects"
         label: "Lista de projetos"
-        file: "content/projects.json"
+        file: "cj-arquitetos-site/content/projects.json"
         fields:
           - name: "projects"
             label: "Projetos"
