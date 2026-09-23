@@ -443,6 +443,17 @@ footer{ background:var(--creme-deep); color:var(--ink); border-top:1px solid var
   nav ul li:first-child{ border-top:none; }
   nav ul a{ display:block; padding:16px 4px; font-size:13px; opacity:.85; }
   header.nav-open .nav-toggle .icon-menu{ display:none; }
+  .logo-mark{
+    position:absolute;
+    left:50%; top:50%;
+    transform:translate(-50%,-50%);
+  }
+  .nav-right{
+    position:absolute;
+    right:44px; top:50%;
+    transform:translateY(-50%);
+  }
+  .nav-right .btn-primary{ display:none; }
   header.nav-open .nav-toggle .icon-close{ display:block; }
   .positioning-grid{ grid-template-columns:1fr; gap:40px; }
   .services-grid{ grid-template-columns:repeat(2,1fr); }
@@ -462,6 +473,7 @@ footer{ background:var(--creme-deep); color:var(--ink); border-top:1px solid var
   .project-grid{ grid-template-columns:1fr; }
   .hero{ height:100vh; }
   .footer-inner{ grid-template-columns:1fr; }
+  .nav-right{ right:20px; }
   .btn-ghost.hero-btn{ display:none; }
   .service-detail{ grid-template-columns:1fr; }
   .timeline-item{ grid-template-columns:1fr; }
