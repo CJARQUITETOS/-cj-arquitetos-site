@@ -37,7 +37,6 @@ function renderProjects(root){
   root.innerHTML = `
     <div class="projects-tabs" role="tablist">${tabsHtml}</div>
     ${panelsHtml}
-    <p class="projects-footer">[ Novos projetos adicionados pelo painel aparecem aqui automaticamente ]</p>
   `;
 
   root.querySelectorAll(".tab-btn").forEach(tab => {
