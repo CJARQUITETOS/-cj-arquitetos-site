@@ -83,6 +83,15 @@ nav ul{
 nav ul a{ text-decoration:none; opacity:.72; transition:opacity .2s; }
 nav ul a:hover, nav ul a[aria-current="page"]{ opacity:1; }
 .nav-right{ display:flex; align-items:center; gap:14px; justify-self:end; }
+.nav-toggle{
+  display:none;
+  width:36px; height:36px;
+  align-items:center; justify-content:center;
+  background:none; border:none; cursor:pointer; padding:0;
+  color:var(--ink); flex-shrink:0;
+}
+.nav-toggle svg{ width:22px; height:22px; }
+.nav-toggle .icon-close{ display:none; }
 
 .btn{
   font-size:12px; font-weight:600; letter-spacing:.06em; text-transform:uppercase;
@@ -419,7 +428,22 @@ footer{ background:var(--creme-deep); color:var(--ink); border-top:1px solid var
 
 /* ---------- RESPONSIVE ---------- */
 @media (max-width: 980px){
-  nav ul{ display:none; }
+  .nav-toggle{ display:flex; }
+  nav{ position:static; }
+  nav ul{
+    display:none;
+    position:absolute; top:100%; left:0; right:0;
+    flex-direction:column; gap:0; margin:0;
+    background:var(--creme);
+    border-bottom:1px solid var(--line);
+    padding:4px 24px 16px;
+  }
+  header.nav-open nav ul{ display:flex; }
+  nav ul li{ border-top:1px solid var(--line); }
+  nav ul li:first-child{ border-top:none; }
+  nav ul a{ display:block; padding:16px 4px; font-size:13px; opacity:.85; }
+  header.nav-open .nav-toggle .icon-menu{ display:none; }
+  header.nav-open .nav-toggle .icon-close{ display:block; }
   .positioning-grid{ grid-template-columns:1fr; gap:40px; }
   .services-grid{ grid-template-columns:repeat(2,1fr); }
   .project-grid{ grid-template-columns:repeat(2,1fr); }
@@ -441,4 +465,5 @@ footer{ background:var(--creme-deep); color:var(--ink); border-top:1px solid var
   .btn-ghost.hero-btn{ display:none; }
   .service-detail{ grid-template-columns:1fr; }
   .timeline-item{ grid-template-columns:1fr; }
+  .nav-right .btn-insta{ display:none; }
 }
