@@ -208,10 +208,15 @@
       "id": "blitz-closet",
       "title": "Blitz Closet",
       "category": "comercial",
-      "location": "Comercial",
+      "location": "Projeto de interiores Comercial | Loja Blitz - Paraná Moda Park, Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/blitz-pós-05.png",
+      "images": [
+        "/assets/img/projects/blitz-pós-02.png",
+        "/assets/img/projects/blitz-pós-01.png",
+        "/assets/img/projects/blitz-pós-03.png",
+        "/assets/img/projects/blitz-pós-04.png"
+      ]
     },
     {
       "id": "ana-liz-concept",
