@@ -134,27 +134,34 @@
       "id": "g21",
       "title": "G21 Mobile",
       "category": "comercial",
-      "location": "Maringá, PR",
+      "location": "Projeto de Interiores Comercial | Loja G21, Nova Esperança/PR",
       "status": "",
-      "cover": "/assets/img/projects/g21-cover.jpg",
+      "cover": "/assets/img/projects/whatsapp-image-2026-08-13-at-13.55.34.jpeg",
       "images": [
-        "/assets/img/projects/g21-cover.jpg"
+        "/assets/img/projects/whatsapp-image-2026-08-13-at-13.55.36.jpeg",
+        "/assets/img/projects/whatsapp-image-2026-08-13-at-13.55.32.jpeg"
       ]
     },
     {
       "id": "luleg",
       "title": "Luleg",
       "category": "comercial",
-      "location": "Comercial",
+      "location": "Projeto de interiores Comercial | Loja Lulg - Paraná Moda Park, Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/c-j-arquitetura-luleg-2.jpg",
+      "images": [
+        "/assets/img/projects/c-j-arquitetura-luleg-4.jpg",
+        "/assets/img/projects/c-j-arquitetura-luleg-14.jpg",
+        "/assets/img/projects/c-j-arquitetura-luleg-6.jpg",
+        "/assets/img/projects/c-j-arquitetura-luleg-7.jpg",
+        "/assets/img/projects/c-j-arquitetura-luleg-12.jpg"
+      ]
     },
     {
       "id": "bella-curves",
       "title": "Bella Curves",
       "category": "comercial",
-      "location": "Comercial",
+      "location": "Projeto de interiores Comercial | Loja Bella Curves - Paraná Moda Park, Maringá/PR",
       "status": "",
       "cover": "",
       "images": []
@@ -163,7 +170,7 @@
       "id": "vania-joias",
       "title": "Vânia Joias Finas",
       "category": "comercial",
-      "location": "Comercial",
+      "location": "Projeto de interiores Comercial | Loja Vania Joias Finas - Maringá/PR",
       "status": "",
       "cover": "",
       "images": []
@@ -217,15 +224,6 @@
         "/assets/img/projects/blitz-pós-03.png",
         "/assets/img/projects/blitz-pós-04.png"
       ]
-    },
-    {
-      "id": "ana-liz-concept",
-      "title": "Ana Liz Concept",
-      "category": "comercial",
-      "location": "Comercial",
-      "status": "",
-      "cover": "",
-      "images": []
     },
     {
       "id": "rako-hamburgueria",
