@@ -179,10 +179,13 @@
       "id": "pure-harmony",
       "title": "Pure Harmony",
       "category": "comercial",
-      "location": "Comercial",
+      "location": "Projeto de interiores Comercial | Loja Pure Harmony, Shopping Cidade - Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/img_2557.jpg",
+      "images": [
+        "/assets/img/projects/img_2551.jpg",
+        "/assets/img/projects/img_2550.jpg"
+      ]
     },
     {
       "id": "marlys-pizzaria",
