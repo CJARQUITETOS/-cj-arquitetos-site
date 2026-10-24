@@ -172,8 +172,19 @@
       "category": "comercial",
       "location": "Projeto de interiores Comercial | Loja Vania Joias Finas - Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/vania-joias-finas-11.png",
+      "images": [
+        "/assets/img/projects/vania-joias-finas-11.png",
+        "/assets/img/projects/vania-joias-finas-5.png",
+        "/assets/img/projects/vania-joias-finas-8.png",
+        "/assets/img/projects/vania-joias-finas-4.png",
+        "/assets/img/projects/vania-joias-finas-7.png",
+        "/assets/img/projects/vania-joias-finas-3.png",
+        "/assets/img/projects/vania-joias-finas-1.png",
+        "/assets/img/projects/vania-joias-finas-10.png",
+        "/assets/img/projects/vania-joias-finas-2.png",
+        "/assets/img/projects/vania-joias-finas-9.png"
+      ]
     },
     {
       "id": "pure-harmony",
