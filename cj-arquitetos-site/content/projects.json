@@ -240,12 +240,16 @@
     },
     {
       "id": "marlys-pizzaria",
-      "title": "Marlys Pizzaria",
+      "title": "Dona Marly Pizzaria",
       "category": "comercial",
-      "location": "Comercial",
+      "location": "Projeto de Fachada e Interiores Comercial | Pizzaria Dona Marly, Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/marlys-capa.png",
+      "images": [
+        "/assets/img/projects/marlys-capa.png",
+        "/assets/img/projects/marlys-1.png",
+        "/assets/img/projects/marlys-2.png"
+      ]
     },
     {
       "id": "rako-hamburgueria",
