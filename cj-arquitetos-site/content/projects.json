@@ -158,6 +158,20 @@
       ]
     },
     {
+      "id": "blitz-closet",
+      "title": "Blitz Closet",
+      "category": "comercial",
+      "location": "Projeto de interiores Comercial | Loja Blitz - Paraná Moda Park, Maringá/PR",
+      "status": "",
+      "cover": "/assets/img/projects/blitz-pós-05.png",
+      "images": [
+        "/assets/img/projects/blitz-pós-02.png",
+        "/assets/img/projects/blitz-pós-01.png",
+        "/assets/img/projects/blitz-pós-03.png",
+        "/assets/img/projects/blitz-pós-04.png"
+      ]
+    },
+    {
       "id": "bella-curves",
       "title": "Bella Curves",
       "category": "comercial",
@@ -226,20 +240,6 @@
       "images": []
     },
     {
-      "id": "blitz-closet",
-      "title": "Blitz Closet",
-      "category": "comercial",
-      "location": "Projeto de interiores Comercial | Loja Blitz - Paraná Moda Park, Maringá/PR",
-      "status": "",
-      "cover": "/assets/img/projects/blitz-pós-05.png",
-      "images": [
-        "/assets/img/projects/blitz-pós-02.png",
-        "/assets/img/projects/blitz-pós-01.png",
-        "/assets/img/projects/blitz-pós-03.png",
-        "/assets/img/projects/blitz-pós-04.png"
-      ]
-    },
-    {
       "id": "rako-hamburgueria",
       "title": "Rako Hamburgueria",
       "category": "comercial",
@@ -293,15 +293,6 @@
       ]
     },
     {
-      "id": "clinica-tainara-juszkeviscz",
-      "title": "Clínica de Estética Tainara Juszkeviscz",
-      "category": "clinica",
-      "location": "Clínica",
-      "status": "",
-      "cover": "",
-      "images": []
-    },
-    {
       "id": "clinica-dafnee-caroline",
       "title": "Clínica de Estética Dafnee Caroline",
       "category": "clinica",
@@ -321,6 +312,15 @@
         "/assets/img/projects/10.png",
         "/assets/img/projects/11.png"
       ]
+    },
+    {
+      "id": "clinica-tainara-juszkeviscz",
+      "title": "Clínica de Estética Tainara Juszkeviscz",
+      "category": "clinica",
+      "location": "Projeto de Interiores e vigilância sanitária | Clínica de estética, Maringá/PR",
+      "status": "",
+      "cover": "",
+      "images": []
     },
     {
       "id": "consultorio-viviane-balero",
