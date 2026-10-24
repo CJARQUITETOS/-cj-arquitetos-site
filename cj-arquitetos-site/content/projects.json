@@ -212,33 +212,6 @@
       ]
     },
     {
-      "id": "studio-gabriela-de-paula",
-      "title": "Studio Gabriela de Paula",
-      "category": "comercial",
-      "location": "Comercial",
-      "status": "",
-      "cover": "",
-      "images": []
-    },
-    {
-      "id": "bella-curves",
-      "title": "Bella Curves",
-      "category": "comercial",
-      "location": "Projeto de interiores Comercial | Loja Bella Curves - Paraná Moda Park, Maringá/PR",
-      "status": "",
-      "cover": "",
-      "images": []
-    },
-    {
-      "id": "italia-bike-shop",
-      "title": "Italia Bike Shop",
-      "category": "comercial",
-      "location": "Comercial",
-      "status": "",
-      "cover": "",
-      "images": []
-    },
-    {
       "id": "marlys-pizzaria",
       "title": "Dona Marly Pizzaria",
       "category": "comercial",
@@ -254,15 +227,6 @@
         "/assets/img/projects/marlys-5.png",
         "/assets/img/projects/marlys-6.png"
       ]
-    },
-    {
-      "id": "rako-hamburgueria",
-      "title": "Rako Hamburgueria",
-      "category": "comercial",
-      "location": "Comercial",
-      "status": "",
-      "cover": "",
-      "images": []
     },
     {
       "id": "brado",
