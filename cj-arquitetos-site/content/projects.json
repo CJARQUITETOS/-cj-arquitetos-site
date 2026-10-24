@@ -230,9 +230,9 @@
     },
     {
       "id": "brado",
-      "title": "Brado Corretora",
+      "title": "Brado Seguros",
       "category": "corporativo",
-      "location": "Maringá, PR",
+      "location": "Projeto de interiores Corporativo | Escritório Brado Seguros, Maringá/PR",
       "status": "",
       "cover": "/assets/img/projects/brado/00.jpg",
       "images": [
@@ -246,10 +246,13 @@
       "id": "advocacia-arcala-vasconcelos",
       "title": "Advocacia Arcala e Vasconcelos",
       "category": "corporativo",
-      "location": "Corporativo",
+      "location": "Projeto de interiores Corporativo | Escritório Arcala e Vasconcelos, Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/recepção-minimalista-arcalá-vasconcelos.png",
+      "images": [
+        "/assets/img/projects/recepção-minimalista-arcalá-vasconcelos.png",
+        "/assets/img/projects/sala-de-reuniões-moderna-em-tons-escuros.png"
+      ]
     },
     {
       "id": "clinica-matanavic",
