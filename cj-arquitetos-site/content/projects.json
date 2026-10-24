@@ -293,10 +293,22 @@
       "id": "clinica-dafnee-caroline",
       "title": "Clínica de Estética Dafnee Caroline",
       "category": "clinica",
-      "location": "Clínica",
+      "location": "Projeto de Interiores e vigilância sanitária | Clínica de estética, Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/capa.png",
+      "images": [
+        "/assets/img/projects/capa.png",
+        "/assets/img/projects/1.png",
+        "/assets/img/projects/2.png",
+        "/assets/img/projects/3.png",
+        "/assets/img/projects/4.png",
+        "/assets/img/projects/6.png",
+        "/assets/img/projects/7.png",
+        "/assets/img/projects/8.png",
+        "/assets/img/projects/9.png",
+        "/assets/img/projects/10.png",
+        "/assets/img/projects/11.png"
+      ]
     },
     {
       "id": "consultorio-viviane-balero",
