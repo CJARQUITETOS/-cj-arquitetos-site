@@ -172,15 +172,6 @@
       ]
     },
     {
-      "id": "bella-curves",
-      "title": "Bella Curves",
-      "category": "comercial",
-      "location": "Projeto de interiores Comercial | Loja Bella Curves - Paraná Moda Park, Maringá/PR",
-      "status": "",
-      "cover": "",
-      "images": []
-    },
-    {
       "id": "vania-joias",
       "title": "Vânia Joias Finas",
       "category": "comercial",
@@ -213,10 +204,19 @@
       ]
     },
     {
-      "id": "marlys-pizzaria",
-      "title": "Marlys Pizzaria",
+      "id": "studio-gabriela-de-paula",
+      "title": "Studio Gabriela de Paula",
       "category": "comercial",
       "location": "Comercial",
+      "status": "",
+      "cover": "",
+      "images": []
+    },
+    {
+      "id": "bella-curves",
+      "title": "Bella Curves",
+      "category": "comercial",
+      "location": "Projeto de interiores Comercial | Loja Bella Curves - Paraná Moda Park, Maringá/PR",
       "status": "",
       "cover": "",
       "images": []
@@ -231,8 +231,8 @@
       "images": []
     },
     {
-      "id": "studio-gabriela-de-paula",
-      "title": "Studio Gabriela de Paula",
+      "id": "marlys-pizzaria",
+      "title": "Marlys Pizzaria",
       "category": "comercial",
       "location": "Comercial",
       "status": "",
@@ -319,8 +319,17 @@
       "category": "clinica",
       "location": "Projeto de Interiores e vigilância sanitária | Clínica de estética, Maringá/PR",
       "status": "",
-      "cover": "",
-      "images": []
+      "cover": "/assets/img/projects/tainara-capa.png",
+      "images": [
+        "/assets/img/projects/tainara-capa.png",
+        "/assets/img/projects/tainara-1.png",
+        "/assets/img/projects/tainara-2.png",
+        "/assets/img/projects/tainara-3.png",
+        "/assets/img/projects/tainara-4.png",
+        "/assets/img/projects/tainara-5.png",
+        "/assets/img/projects/tainara-6.png",
+        "/assets/img/projects/tainara-7.png"
+      ]
     },
     {
       "id": "consultorio-viviane-balero",
