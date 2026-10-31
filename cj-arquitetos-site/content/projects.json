@@ -83,15 +83,18 @@
       "category": "residencial",
       "location": "Projeto de Interiores Residencial | Residência M.M. - Condomínio Vilaggio Bourbon, Maringá /PR",
       "status": "",
-      "cover": "/assets/img/projects/teste-final-4.1.png",
+      "cover": "/assets/img/projects/mp-gourmet-pós-01.png",
       "images": [
+        "/assets/img/projects/mp-gourmet-pós-01.png",
+        "/assets/img/projects/mp-gourmet-pós-03.png",
+        "/assets/img/projects/mp-gourmet-pós-04.png",
+        "/assets/img/projects/mp-gourmet-pós-02.png",
+        "/assets/img/projects/mp-área-externa-pós-01.png",
+        "/assets/img/projects/mp-quarto-pós-02.png",
+        "/assets/img/projects/mp-quarto-pós-01.png",
+        "/assets/img/projects/mp-quarto-pós-03.png",
         "/assets/img/projects/04.png",
-        "/assets/img/projects/06.png",
-        "/assets/img/projects/teste-final.png",
-        "/assets/img/projects/teste-final-2.png",
-        "/assets/img/projects/teste-final-4.1.png",
-        "/assets/img/projects/teste-final-6.png",
-        "/assets/img/projects/teste-final-7.png"
+        "/assets/img/projects/06.png"
       ]
     },
     {
