@@ -132,6 +132,22 @@
       ]
     },
     {
+      "id": "INTERIORES GW",
+      "title": "Casa GW",
+      "category": "residencial",
+      "location": "Projeto de Interiores Residencial | Casa G.W. - Maringá/PR",
+      "cover": "/assets/img/projects/gw-cozinha-pós-3.png",
+      "images": [
+        "/assets/img/projects/gw-cozinha-pós-3.png",
+        "/assets/img/projects/gw-cozinha-pós-2.png",
+        "/assets/img/projects/gw-cozinha-pós-1.png",
+        "/assets/img/projects/gw-cozinha-pós-5.png",
+        "/assets/img/projects/gw-cozinha-pós-7.png",
+        "/assets/img/projects/gw-cozinha-pós-6.png",
+        "/assets/img/projects/gw-cozinha-pós-4.png"
+      ]
+    },
+    {
       "id": "g21",
       "title": "G21 Mobile",
       "category": "comercial",
