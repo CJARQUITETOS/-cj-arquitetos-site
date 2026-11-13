@@ -120,3 +120,28 @@ function initMobileNav(){
 }
 
 document.addEventListener('DOMContentLoaded', initMobileNav);
+
+function initContactForm(){
+    const form = document.querySelector('.contact-form');
+    if(!form) return;
+    form.addEventListener('submit', (e) => {
+          e.preventDefault();
+          const nome = form.nome.value.trim();
+          const telefone = form.telefone.value.trim();
+          const cidade = form.cidade.value.trim();
+          const tipo = form.tipo.value;
+          const mensagem = form.mensagem.value.trim();
+
+                              let texto = 'Olá! Vim pelo site da CJ Arquitetos.\n\n';
+          texto += 'Nome: ' + nome + '\n';
+          texto += 'Telefone: ' + telefone + '\n';
+          if(cidade) texto += 'Cidade: ' + cidade + '\n';
+          texto += 'Tipo de projeto: ' + tipo + '\n';
+          if(mensagem) texto += 'Mensagem: ' + mensagem + '\n';
+
+                              const url = 'https://wa.me/5544998515660?text=' + encodeURIComponent(texto);
+          window.open(url, '_blank');
+    });
+}
+
+document.addEventListener('DOMContentLoaded', initContactForm);
